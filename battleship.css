@@ -1,0 +1,39 @@
+table {
+    display: inline-block;
+    margin: auto;
+}
+
+caption {
+    font-size: 2em;
+}
+
+#firstTable {
+    /*text-align: left;*/
+    margin-right: 60px;
+}
+
+/*#secondTable {
+    text-align: right;
+}*/
+
+td {
+    padding: 0;
+    margin: 0;
+    border: 2px solid #000;
+    border-collapse: collapse;
+    width: 60px;
+    height: 60px;
+    background-color:lightseagreen;
+    /*background-image: url('ships.jpg');*/
+    background-size: cover;
+}
+
+#menu {
+    display: inline-block;
+    width: 100%;
+}
+
+img {
+    display: block;
+    padding: 0px;
+}
